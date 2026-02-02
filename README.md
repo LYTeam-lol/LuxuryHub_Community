@@ -7,4 +7,5 @@
 **Supported Games:**
 
 *• Murder Mystery 2*   
+
 [![Telegram](https://img.shields.io/badge/Telegram-Join-blue?logo=telegram&style=for-the-badge)](https://t.me/LuxuryHubCommunity) 
